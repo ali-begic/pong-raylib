@@ -33,3 +33,19 @@ This document outlines the coding style and conventions to follow for the **Pong
   {
   // Code
   }
+
+- **Naming:**  
+  - Use camelCase for variables and functions (e.g., `playerScore`, `resetBall()`).
+  - Use PascalCase for class names (e.g., `Ball`, `Paddle`).
+
+- **Comments:**  
+  - Use `//` for single-line comments.
+  - Use block comments `/* ... */` for multi-line explanations where needed.
+
+- **File organization:**  
+  - Group related functions inside classes.
+  - Keep `main()` function clean and delegate logic to classes/methods.
+
+---
+
+Following these guidelines will help keep the **Pong** code readable and maintainable. Thanks for contributing!
