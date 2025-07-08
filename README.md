@@ -2,7 +2,7 @@
 
 **Pong** is a minimalist and cross-platform Pong game developed using the Raylib library. It features smooth controls, a basic CPU opponent AI, and classic arcade gameplay. This lightweight game is perfect for learning game development fundamentals or enjoying a quick nostalgic match.
 
-![Screenshot 2025-07-08 112739 (1)](https://github.com/user-attachments/assets/a048cd84-f093-45e2-bebb-ca6bc7079ee2)
+![pong-screenshot](https://github.com/user-attachments/assets/25bbf285-d081-449f-966b-ea4b7628bc1d)
 
 ## Features of the Pong Raylib Game
 
